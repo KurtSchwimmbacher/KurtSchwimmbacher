@@ -3,6 +3,11 @@
 Hey there
 
 I’m Kurt, a second year Development and UX Desig student at The Open Window. I play a lot of board games and tabletop games and that comes through in my projects. I make it a goal to make each project look and feel different from each other, since I want to focus on front-end and UI, it makes sense to have a diverse set of skills.
+<br>
+<br>
+
+[![CSS3](https://img.shields.io/badge/kurts.portfolio-1572B6?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kurts.portfolio)
+[![Email](https://img.shields.io/badge/231002@virtualwindow.co.za-E34F26?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 
 ## 📌 Pinned Repositories
@@ -81,20 +86,22 @@ I’m Kurt, a second year Development and UX Desig student at The Open Window. I
      <a href="https://github.com/harish-sethuraman/readme-components">
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=455363&logo=npm&svgfill=white">
 </a>
+  </a>
+     <a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=455363&logo=jquery&svgfill=white">
+</a>
+
 <br>
 
 <br>
-[![Photoshop](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-[![Jquery](https://img.shields.io/badge/JQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)](https://jquery.com/)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://mysql.com/)
-[![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)](https://apachefriends.org/)
+<br>
+
+![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-Blender-informational?style=flat&logo=Blender&logoColor=white&color=blue)
+
 </details>
-
-
-
 
 
 
