@@ -1,3 +1,4 @@
+![ClearView Header Image](https://github.com/KurtSchwimmbacher/KurtSchwimmbacher/blob/main/Portfolio_Header.png)
 
 Hey there
 
