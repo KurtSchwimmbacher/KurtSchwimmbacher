@@ -12,6 +12,14 @@ I’m Kurt, a second year Development and UX Desig student at The Open Window. I
 
 ## 📌 Pinned Repositories
 
+### Third Year Projects
+<br>
+<a href="https://github.com/KurtSchwimmbacher/SafelyApp">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KurtSchwimmbacher&repo=SafelyApp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<br>
+
+### Second year projects
 <br>
 <a href="https://github.com/KurtSchwimmbacher/DV200T4_RestHere">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KurtSchwimmbacher&repo=DV200T4_RestHere&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
