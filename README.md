@@ -44,6 +44,12 @@ I’m Kurt, a third year Development and UX Design student at The Open Window. I
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KurtSchwimmbacher&repo=DV200ReactApplication&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+### Other Cool projects
+<br>
+<a href="https://github.com/KurtSchwimmbacher/firecrawl-website-analyzer">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=KurtSchwimmbacher&repo=firecrawl-website-analyzer&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<br>
 
 <br>
 <br>
